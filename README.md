@@ -1,4 +1,4 @@
-# Social Net API
+# robot-gladiators
 
 ![contributors-shield](https://img.shields.io/github/contributors/btking1/README-Generator?style=for-the-badge)
 ![forks-shield](https://img.shields.io/github/forks/btking1/README-Generator?style=for-the-badge)
@@ -32,7 +32,8 @@ After enter a name for your robot, your ready to begin.
 
 <br/>
 
-![SCREENSHOOT](https://github.com/btking1/Social-Net-API/blob/main/img/Screenshot.jpg)
+![SCREENSHOOT](https://github.com/btking1/robot-gladiators/blob/main/assets/images/Screenshot.jpg)
+![SCREENSHOOT](https://github.com/btking1/robot-gladiators/blob/main/assets/images/Screenshot2.jpg)
 
 <br/>
 
